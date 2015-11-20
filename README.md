@@ -3,6 +3,8 @@
 Omitting obvious `git` commands, here is the list of steps to reproduce:
 
 ```sh
+node -v # 5.1.0
+npm -v # 3.3.12
 npm init
 npm cache clean async
 npm i -S async

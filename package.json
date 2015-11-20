@@ -1,0 +1,13 @@
+{
+  "name": "testing-shrinkwrap",
+  "description": "shrinkwrap should not error when run repeatedly",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:evocateur/testing-shrinkwrap.git"
+  },
+  "author": "evocateur",
+  "license": "ISC",
+  "dependencies": {
+  }
+}

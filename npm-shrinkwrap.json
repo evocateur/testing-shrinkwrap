@@ -1,0 +1,10 @@
+{
+  "name": "testing-shrinkwrap",
+  "dependencies": {
+    "async": {
+      "version": "1.5.0",
+      "from": "async@>=1.5.0 <2.0.0",
+      "resolved": "https://registry.npmjs.org/async/-/async-1.5.0.tgz"
+    }
+  }
+}

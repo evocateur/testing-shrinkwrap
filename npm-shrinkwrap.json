@@ -8,7 +8,7 @@
     },
     "get-stream": {
       "version": "1.0.0",
-      "from": "sindresorhus/get-stream#v1.0.0",
+      "from": "git://github.com/sindresorhus/get-stream.git#56bf66ad5a924be824a6603d000c68ca394f71f5",
       "resolved": "git://github.com/sindresorhus/get-stream.git#56bf66ad5a924be824a6603d000c68ca394f71f5"
     }
   }

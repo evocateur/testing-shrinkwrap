@@ -9,5 +9,6 @@
   "author": "evocateur",
   "license": "ISC",
   "dependencies": {
+    "async": "^1.5.0"
   }
 }
